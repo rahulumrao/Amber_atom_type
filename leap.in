@@ -1,0 +1,11 @@
+
+source oldff/leaprc.ff99SB
+source leaprc.gaff
+
+SUS = loadmol2 1_aladi.mol2
+check SUS
+loadamberparams 1_aladi.frcmod
+saveoff SUS 1_aladi.lib 
+saveamberparm SUS 1_aladi.prmtop 1_aladi.rst7
+savepdb SUS 2_aladi.pdb 				#2_aladi.pdb
+quit()
