@@ -1,6 +1,6 @@
 # Get the AMBER atom type for a PDB file
 
-```
+```diff
 To perform the QM/MM simulation in package using AMBER forcefield for MM region ,\
 we need atom type information which amber understand Otherwise we will get error in the calculation. \
 
