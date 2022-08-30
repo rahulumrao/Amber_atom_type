@@ -42,14 +42,15 @@ Row  Highlight Display  Tag  Symbol    NA      NB       NC      Bond            
 # 2. Using Amber Package Itself 
 [https://ambermd.org/]
 
-```diff
+```
 A bash script file is given in this folder which will do everything for you 
-Only change the '##INPUT' and '**OUTPUT**' variable according to your inputs.
-
+Only change the ``` 
+'##INPUT' and '**OUTPUT**' variable according to your inputs.
+```
 Details of used module can be found in the AMBER manual with the link given. 
 Just for the breaf discription the main module is 'amtechamber' which will generate a 'mol2' file 
 This mol2 file will have the atom type information acoording to AMBER forcefield 
->which further can be used for the calculations.
+which further can be used for the calculations.
 
 Ex. mol2 File 
 
