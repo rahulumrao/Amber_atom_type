@@ -73,5 +73,5 @@ bcc
 ```
 
 ```diff
-! An Powepoint file is also avialable in the folder showing the stesps involves
+@@ A Powepoint file is also avialable in the folder showing the steps involved. @@
 ```
