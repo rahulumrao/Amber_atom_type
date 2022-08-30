@@ -19,7 +19,7 @@ It will printout the atom type for various forcefield (Mainly, UFF, Dreiding, AM
 - Before using this list :: Make a comparison of the atom type from the AMBER parameter file \
 just to make sure it is not giving wrong type to atoms.
 
-2. Using Amber package itself (https://ambermd.org/)
+2. Using Amber package itself [a link] (https://ambermd.org/)
 
 A bash script file is given in this folder which will do everything for you \
 Only change the 'INPUT' and 'OUTPUT' variable according to your inputs.
