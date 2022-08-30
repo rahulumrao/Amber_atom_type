@@ -2,8 +2,7 @@
 
 ```diff
 To perform the QM/MM simulation in some package using AMBER forcefield for MM region atoms,
-we usually need atom type information which amber can understand ,
-otherwise we will get error in the calculation. 
+we usually need atom type information which amber can understand, otherwise we will get error in the calculation. 
 
 The best way to get the atom type information is to get the PDB file from database.
 ```
