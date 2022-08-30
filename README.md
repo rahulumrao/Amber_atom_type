@@ -6,16 +6,16 @@ we need atom type information which amber understand Otherwise we will get error
 
 The best way is to get the PDB file from database
 ```
-[a link](https://www.rcsb.org/).
+[] [https://www.rcsb.org/].
 ```diff
 For some reason let say we needed to modify the PDB file or the PDB in no avialable in database, 
 in such case the mentioned method can be followd :
 ```
 
-# Here are the two possible ways to fix this,
+# Here are the two possible ways to fix this:
 
 # 1. GaussView 
-[a link](https://gaussian.com/gaussview6/) 
+[] [https://gaussian.com/gaussview6/]
 
 ```diff
 Just open the PDB file, then go to Atom Editor List, then Show MM Type.
@@ -26,7 +26,7 @@ just to make sure it is not giving wrong type to atoms.
 ```
 
 #2. Using Amber package itself 
-[a link](https://ambermd.org/)
+[][https://ambermd.org/]
 
 ```diff
 A bash script file is given in this folder which will do everything for you 
