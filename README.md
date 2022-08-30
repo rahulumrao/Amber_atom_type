@@ -72,4 +72,6 @@ bcc
 - just to make sure it is not giving wrong type to atoms.
 ```
 
-## An Powepoint file is also avialable in the folder showing the stesps involves
+```diff
+! An Powepoint file is also avialable in the folder showing the stesps involves
+```
