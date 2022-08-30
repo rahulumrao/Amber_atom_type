@@ -4,8 +4,10 @@
 To perform the QM/MM simulation in package using AMBER forcefield for MM region ,
 we need atom type information which amber understand Otherwise we will get error in the calculation. 
 
-The best way is to get the PDB file from database (https://www.rcsb.org/).
-
+The best way is to get the PDB file from database
+```
+[a link](https://www.rcsb.org/).
+```diff
 For some reason let say we needed to modify the PDB file or the PDB in no avialable in database, 
 in such case the mentioned method can be followd :
 ```
