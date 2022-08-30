@@ -47,8 +47,7 @@ Only change the 'INPUT' and 'OUTPUT' variable according to your inputs.
 
 Details of used module can be found in the AMBER manual with the link given. 
 Just for the breaf discription the main module is 'amtechamber' which will generate a 'mol2' file 
-This mol2 file will have the atom type information according to AMBER forcefield 
-which further can be used for the calculations.
+This mol2 file will have the atom type information according to AMBER forcefield, which further can be used for the calculations.
 
 Ex. mol2 File 
 
@@ -72,3 +71,5 @@ bcc
 - Before using this list :: Make a comparison of the atom type from the AMBER parameter file 
 - just to make sure it is not giving wrong type to atoms.
 ```
+
+## An Powepoint file is also avialable in the folder showing the stesps involves
